@@ -1,5 +1,7 @@
-# Exercises
+# Python Exercises
 ## Python and Data Science
 
-### Python Functions
-### Data Structures
+``` 
+Python Functions and Data Structures 
+
+```
