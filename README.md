@@ -1,5 +1,5 @@
-# PythonBootcamp
-Python and Data Science
+# Exercises
+## Python and Data Science
 
-## Python Functions
-## Data Structures
+### Python Functions
+### Data Structures
